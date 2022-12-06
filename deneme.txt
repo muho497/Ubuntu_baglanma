@@ -6,3 +6,6 @@ liste = [43,35,78,13,5,86,90]
 liste.sort(reverse=True)
 
 listekodcommitleme = [23,43,54,3,5,78,456]
+
+testbranchlistesi = [34,3323,545,43343,54554,5454]
+
